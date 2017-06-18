@@ -310,17 +310,6 @@ body {
 }
 
 
-
-/* .basket:before {
-	content: "";
-	position: absolute;
-	width: 21px;
-	height: 20px;
-	background: url("../image/icon-basket.png") no-repeat;
-	left: 16px;
-
-} */
-
 .search {
 	position: relative;
 	padding-top: 9px;
